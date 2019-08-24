@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+
+}
+.box{
+    background-color: khaki;
+    width: 800px;
+    height: 400px;
+}   
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+
+}
